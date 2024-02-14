@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from datetime import datetime
 import csv
 import pandas as pd
@@ -187,3 +188,5 @@ if __name__ == '__main__':
     ui = DataProcessorUI(root, data_processor)
 
     root.mainloop()
+=======
+>>>>>>> 662c6c25070813fdcfae65df411fc6e686f15818
