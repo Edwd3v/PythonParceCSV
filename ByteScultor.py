@@ -1,6 +1,7 @@
 import tkinter as tk
 from ToolsByteScultor.ui_module import DataProcessorUI
 from ToolsByteScultor.data_processor_module import DataProcessor
+print("hola")
 
 if __name__ == '__main__':
     root = tk.Tk()
